@@ -70,6 +70,10 @@ body{
     display: flex;
     justify-content: center;
 }
+.parametro-senha__botao{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+}
 .parametro-titulo{
     font-family: var(--roboto-mono);
     font-size: 28px;
