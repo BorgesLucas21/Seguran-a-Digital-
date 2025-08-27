@@ -4,4 +4,4 @@ numeroSenha.textContent = tamanhoSenha;
 
 const botoes = document.querySelectorAll('.parametro-senha__botao');
 
-const.console.log(botoes);
+console.log(botoes);
