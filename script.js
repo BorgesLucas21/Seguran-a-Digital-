@@ -3,5 +3,5 @@ let tamanhoSenha = 12;
 numeroSenha.textContent = tamanhoSenha;
 
 const botoes = document.querySelectorAll('.parametro-senha__botao');
-6
+
 const.console.log(botoes);
