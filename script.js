@@ -11,4 +11,9 @@ function diminuiTamanho(){
     numeroSenha.textContent = tamanhoSenha
 }
 
+function diminuiTamanho(){
+    tamanhoSenha = tamanhoSenha + 1;
+    numeroSenha.textContent = tamanhoSenha
+}
+
 console.log(botoes);
